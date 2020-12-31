@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Test {
          
 	public static void main(String[] args){
+System.out.println ("new line");
 		Sbi bank=new Sbi();
 		while(true) {
 			System.out.println("For Creating Account         Press 1\n"+
